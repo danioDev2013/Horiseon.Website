@@ -15,7 +15,9 @@ The properties I changed in the CSS extension: header, grouped elements together
     * Changed the classes that I updated. 
 
 I learned alot from this project: semantics of a webpage, how id attributes help link to different spot on a page, how the html should flow, how css selectors can be grouped, and how to deploy a webpage.  
-
+ 
+ url:  https://dorley1993.github.io/Horiseon.Website.Project/
+ 
 ## Usage
 At the top of the page click on Search engine optimization, or online reputation management, or social media marketing, and they will bring you to a small paragraph about them.
 
