@@ -10,9 +10,9 @@ This is the Horiseon project, modified for the Horiseon marketing agency. They r
 
 The properties I changed in the CSS extension: header, grouped elements together, and updated the classes. 
 
-    *I made sure to change the class header. Also, changed the div to nav. 
-    *I linked together selector elements. 
-    *Changed the classes that I updated. 
+    * I made sure to change the class header. Also, changed the div to nav. 
+    * I linked together selector elements. 
+    * Changed the classes that I updated. 
 
 I learned alot from this project: semantics of a webpage, how id attributes help link to different spot on a page, how the html should flow, how css selectors can be grouped, and how to deploy a webpage. 
 Mine stands out because I put extra time in my comments. 
